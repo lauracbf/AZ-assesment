@@ -3,9 +3,16 @@ body {
 }
 
 .main-container {
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
 }
+
+@media (min-width: 800px) {
+    .main-container {
+        width: 55%;
+        margin: 0 auto;
+    }
+  }
 
 .main-table {
     width: 100%;

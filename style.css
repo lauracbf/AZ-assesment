@@ -1,0 +1,103 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.main-container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.main-table {
+    width: 100%;
+    height: 100%;
+}
+
+.lynparza-logo {
+    width: 50%;
+    height: 50%;
+}
+
+.logo-left {
+    text-align: left;
+}
+
+.myLynparza-logo {
+    width: 50%;
+    height: 50%;
+}
+
+.logo-right {
+    text-align: right;
+}
+
+.banner{
+    margin: 0 auto;
+    width: 100%;
+}
+
+.name-style {
+    color: fuchsia;
+    font-weight: bold;
+}
+
+.paragraph-one {
+    text-align: left;
+}
+
+.sub-table-style {
+    background-color: aliceblue;
+    width: 100%;
+}
+
+.tips-header {
+    text-align: left;
+    font-family: 'Work Sans', sans-serif;
+    color: navy;
+}
+
+.sub-table {
+    width: 90%;
+    height: 90%;
+    margin: 0 auto;
+    
+}
+
+.checklist-style {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 16px;
+}
+
+.list-style {
+    list-style: none;
+    margin: 0;
+}
+
+.image-size {
+    width: 10%;
+    height: 10%;
+}
+
+.whatIsLinparza-header {
+    text-align: left;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(43, 43, 65);
+    margin-bottom: 1%;
+}
+
+.linparza-list {
+    margin: 0;
+}
+
+.copy-right-style {
+    text-align: center;
+}
+
+.az-logo {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.bulletpoint-style {
+    font-weight: bold;
+}
